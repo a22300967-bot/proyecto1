@@ -15,6 +15,7 @@ foreach($xml->contacto as $c){
 <!DOCTYPE html>
 <html>
 <head>
+    <meta charset="UTF-8">
     <title>Modificar Contacto</title>
 </head>
 <body>

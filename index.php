@@ -5,6 +5,7 @@ $xml = simplexml_load_file("contactos.xml");
 <!DOCTYPE html>
 <html>
 <head>
+    <meta charset="UTF-8">
     <title>Agenda de Contactos</title>
 </head>
 <body>
