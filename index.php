@@ -80,5 +80,10 @@ foreach($xml->contacto as $c){
 <br>
 <a href="contactos.xml">Ver Archivo XML</a>
 
+<footer>
+    <p>Desarrollado por Martin Alejandro Acevedo Cisneros 22300967</p>
+</footer>
+
+
 </body>
 </html>
