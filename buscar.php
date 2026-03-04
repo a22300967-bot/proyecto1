@@ -5,6 +5,7 @@ $xml = simplexml_load_file("contactos.xml");
 <!DOCTYPE html>
 <html>
 <head>
+    <link rel="stylesheet" href="estilos.css">
     <meta charset="UTF-8">
     <title>Búsqueda de Contactos</title>
 
