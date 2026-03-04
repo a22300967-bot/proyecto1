@@ -41,12 +41,9 @@ $xml = simplexml_load_file("contactos.xml");
 
 <br><br>
 
-<!-- BUSCAR -->
-<form method="POST" action="buscar.php">
-    Buscar por nombre:
-    <input type="text" name="buscar" required>
-    <button type="submit">Buscar</button>
-</form>
+<a href="buscar.php">
+    <button type="button">Buscar</button>
+</a>
 
 <br><br>
 
