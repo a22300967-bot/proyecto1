@@ -39,13 +39,10 @@ $xml = simplexml_load_file("contactos.xml");
     Usuario Red: <input type="text" name="usuarioRed"><br><br>
 
     <button type="submit">Agregar</button>
-</form>
-
-<br><br>
-
-<a href="buscar.php">
+    <a href="buscar.php">
     <button type="button">Buscar</button>
-</a>
+    </a>
+</form>
 
 <br><br>
 
