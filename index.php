@@ -82,7 +82,7 @@ foreach($xml->contacto as $c){
 
 <footer>
     <p>Desarrollado por Martin Alejandro Acevedo Cisneros 22300967</p>
-    <p>Trabajo académico CETI Tonalá 2020</p>
+    <p>Trabajo académico CETI Tonalá 2026</p>
 </footer>
 
 
